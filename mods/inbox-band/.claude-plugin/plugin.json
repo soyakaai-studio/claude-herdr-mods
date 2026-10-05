@@ -1,0 +1,1 @@
+{ "name": "inbox-band", "version": "1.0.0", "description": "Shows N new reports above the prompt from a shared inbox file other chats append to", "types": "./types/index.d.ts" }

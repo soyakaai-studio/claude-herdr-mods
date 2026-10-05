@@ -1,0 +1,1 @@
+{ "name": "guard", "version": "1.0.0", "description": "Blocks risky shell commands (phone deletes, printing secrets, self-killing pkill) and strips secrets pasted into messages" }
